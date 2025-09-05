@@ -1,8 +1,12 @@
-# Bharat-Intern
-Project 1
-The Simple Calculator is a web-based calculator application built using HTML, CSS, and JavaScript. It provides a user-friendly interface for performing basic arithmetic operations, including addition, subtraction, multiplication, and division. The calculator features a display area for entering and viewing expressions and results.
+# React + Vite
 
-Project 2
-The Temperature Converter is a web-based tool designed to convert temperatures between different units of measurement, such as Celsius, Fahrenheit, and Kelvin. It provides a convenient way for users to input a temperature value in one unit and instantly see the converted value in other units.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Made with ❤️ by Aloneking
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
